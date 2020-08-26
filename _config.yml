@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Paige and Alyssa are Cool 
+title: Paige and Alyssa can tutor AND do web dev
 author: Alyssa Chen and Paige Lee
 email: email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -44,11 +44,11 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  articles:
+  main:
     output: true
-  letters:
+  about_us:
     output: true
-  speeches:
+  testimonials:
     output: true
-  tutorials:
+  hire_us:
     output: true
