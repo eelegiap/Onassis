@@ -1,8 +1,6 @@
-# Onassis - Jekyll Theme
+# Paige and Alyssa's Tutoring Website
 
-[Live Demo](https://alvaroduran.com/Onassis) &nbsp; | &nbsp; [Download](https://github.com/ohduran/Onassis/archive/master.zip) &nbsp; | &nbsp; [Support me on Patreon](https://patreon.com/alvaroduran)
-
-![Onassis](assets/images/Onassis.png)
+Work-in-progress :)
 
 
 ### Copyright
