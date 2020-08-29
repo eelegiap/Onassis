@@ -48,6 +48,8 @@ collections:
     output: true
   about_us:
     output: true
+  college_prep:
+    output: true
   testimonials:
     output: true
   hire_us:
