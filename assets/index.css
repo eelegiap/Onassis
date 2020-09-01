@@ -1,11 +1,43 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+
+body{
+  background-color: #FBF5EF;
+}
+
+
+/*
+header{
+  background-color: #8A0808;
+} */
+
 p {
-  font-family: monospace;
+  font-family: 'Raleway', Arial;
+  color: black;
 }
 
 li{
-  font-family: monospace;
+  font-family: 'Raleway', Arial;
+  color: black;
+}
+
+.blog-header-logo {
+  font-family: monospace, "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 2.25rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway",monospace, Georgia, "Times New Roman", serif;
+}
+
+.love{
+  background-color: #8A0808;
+  margin: 0;
+  font-size: 12px;
+  padding: 1em;
+  text-align: center;
+  font-family: Mansalva;
+  color: white;
 }
 
 .subject-header {
@@ -17,17 +49,8 @@ li{
   border-bottom: 1px solid #e5e5e5;
 }
 
-.blog-header-logo {
-  font-family: monospace, "Playfair Display", Georgia, "Times New Roman", serif;
-  font-size: 2.25rem;
-}
-
 .blog-header-logo:hover {
   text-decoration: none;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: monospace,"Playfair Display", Georgia, "Times New Roman", serif;
 }
 
 .zoom {
@@ -134,22 +157,13 @@ h1, h2, h3, h4, h5, h6 {
  * Footer
  */
 .blog-footer {
-  padding: 2.5rem 0;
+  padding: .1rem 0;
   color: #999;
   text-align: center;
-  background-color: #f9f9f9;
-  border-top: .05rem solid #e5e5e5;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
 
 
-.love{
-  background-color: #f9f9f9;
-  margin: 0;
-	font-size: 12px;
-	padding: 1em;
-  text-align: center;
-  font-family: Mansalva;
-}
+
