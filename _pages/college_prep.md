@@ -6,8 +6,11 @@ permalink: /college_prep
 
 ### Standardized Test Prep (SAT, ACT)
 
-Recommended book, etc.
+We offer tutoring for the SAT-I (Math, ERBW) and the ACT (English, Reading, Math, Science). For our own test scores, see <a href='/Onassis/about_us'>ABOUT US</a>. 
 
+##### Recommended Guides
+
+We recommend generally that students use <a href = 'https://collegereadiness.collegeboard.org/sat/inside-the-test/study-guide-students' target="_blank">The Official SAT Study Guide 2020</a> and <a href = 'https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/the-official-guide.html' target="_blank">The Official ACT Prep Guide 2020-2021</a> for SAT and ACT tutoring sessions, respectively. We can guarantee that we have access to only the official guides, but we are flexible and can use whatever resources the student has along with or in lieu of these materials. 
 
 ### College Essay Services
 
