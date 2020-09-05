@@ -6,7 +6,7 @@ permalink: /college_prep
 
 ### Standardized Test Prep (SAT, ACT)
 
-We offer tutoring for the SAT-I (Math, ERBW) and the ACT (English, Reading, Math, Science). For our own test scores and test prep tutoring experience, see <a href='/Onassis/about_us'>ABOUT US</a>. 
+We offer tutoring for the SAT-I (Math, ERBW) and the ACT (English, Reading, Math, Science). For our own test scores and test prep tutoring experience, see <a href='/about_us'>ABOUT US</a>. 
 
 ##### Recommended Guides
 
