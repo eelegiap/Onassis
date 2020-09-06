@@ -5,6 +5,9 @@ body{
   background-color: #f2f3f4;
 }
 
+img {
+  border-radius: 50%;
+}
 /*
 header{
   background-color: #8A0808;
