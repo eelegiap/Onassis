@@ -13,7 +13,7 @@ permalink: /about_us
 <div class="row">
 <div class="col-md-6 mx-auto">
 	<p class="aligncenter">
-    <img src="https://github.com/eelegiap/Onassis/blob/master/_collections/_about_us/alyssa-profile.jpg?raw=true" alt="Alyssa's profile" width="300" height="300">
+    <img src="https://github.com/alyssc/personalsite/blob/gh-pages/profpics/1.jpg?raw=true" alt="Alyssa's profile" width="300" height="300">
 	</p><br>
     <p class='subject-header' style=' text-align: center'>Alyssa Chen</p>
     <p> Alyssa is a rising junior majoring in Applied Mathematics at Harvard. Along with taking a variety of math, computer science, and statistics classes, she dabbles in dramatic writing, flute-playing, <a href="https://www.instagram.com/alygraphy.pen/" target = "_blank">lettering</a>, and jazz radio show hosting.</p>
