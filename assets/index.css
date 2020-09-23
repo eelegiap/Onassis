@@ -14,12 +14,12 @@ header{
 } */
 
 p {
-  font-family: 'Raleway', Arial;
+  font-family: 'Noto Sans', 'Raleway', Arial;
   color: black;
 }
 
 li{
-  font-family: 'Raleway', Arial;
+  font-family: 'Noto Sans', 'Raleway', Arial;
   color: black;
 }
 
@@ -32,11 +32,14 @@ li{
   color:  #800000;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway",monospace, Georgia, "Times New Roman", serif;
+  font-family: 'Lora', 'Playfair Display', 'Noto Sans', "Raleway",monospace, Georgia, "Times New Roman", serif;
   color: #800000;
+  font-weight: bold;
+  /*font-style:italic;*/
 }
 .testifier {
   color: #800000;
+  font-style: italic;
 }
 .love{
   /* background-color: #8A0808; */
